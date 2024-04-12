@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Dream Rivals <:DreamRivals:1219004364249763962>","https://discord.gg/w9BzKsXrdj"];
+const statusMessages = ["Dream Rivals ⚽","https://discord.gg/w9BzKsXrdj"];
 
 
 let currentIndex = 0;
