@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Dream Rivals ⚽","https://discord.gg/w9BzKsXrdj"];
+const statusMessages = ["Dream Rivals ⚽ e CV3D 🏐","Feito por @ninjachato e @polo7777"];
 
 
 let currentIndex = 0;
