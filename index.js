@@ -19,7 +19,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Dream Rivals ⚽ e CV3D 🏐","Feito por @ninjachato e @polo7777"];
+const statusMessages = ["CV3D 🏐","Feito por @ninjachato e @polo7777"];
 
 
 let currentIndex = 0;
